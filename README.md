@@ -5,4 +5,4 @@ To run
 Download .py
 Open in terminal
 then run with
-python3 .py
+python3 agpt.py
